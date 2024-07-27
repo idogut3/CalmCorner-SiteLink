@@ -5,3 +5,11 @@ I worked as a team is when I participated in a voluntary programming development
 
 
 Link for the UML diagrams I sketched - https://lucid.app/lucidchart/f80f3c9e-96d8-4825-9f1f-49a9e05e990d/edit?viewport_loc=-3098%2C725%2C6262%2C3547%2C0_0&invitationId=inv_c0fc775e-b1ae-4f7a-ab52-2bc65ce3fb8e
+
+# Here are some of the uml pictures I created to help this project
+
+![first picture](https://github.com/idogut3/CalmCorner-SiteLink/blob/main/Screenshot_1.png)
+
+![second picture](https://github.com/idogut3/CalmCorner-SiteLink/blob/main/Screenshot_2.png)
+
+![Third picture](https://github.com/idogut3/CalmCorner-SiteLink/blob/main/Screenshot_3.png)
